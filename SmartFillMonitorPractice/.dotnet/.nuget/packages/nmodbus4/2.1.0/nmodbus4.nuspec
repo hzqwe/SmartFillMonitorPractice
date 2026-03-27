@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NModbus4</id>
+    <version>2.1.0</version>
+    <title>NModbus4</title>
+    <authors>Maxwe11</authors>
+    <owners>Maxwe11</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/NModbus4/NModbus4</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NModbus is a C# implementation of the Modbus protocol. Provides connectivity to Modbus slave compatible devices and applications. Supports serial ASCII, serial RTU, TCP, and UDP protocols. NModbus4 it's a fork of NModbus(https://code.google.com/p/nmodbus)</description>
+    <releaseNotes>https://github.com/NModbus4/NModbus4/releases</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>modbus nmodbus rtu ascii tcp udp serial master slave</tags>
+    <dependencies />
+  </metadata>
+</package>
