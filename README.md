@@ -187,8 +187,6 @@ dotnet test .\SmartFillMonitorPractice\SmartFillMonitorPractice\Tests\SmartFillM
 
 ## 演示建议流程
 
-适合答辩 / 面试 / 录屏演示的顺序如下：
-
 1. 启动项目，展示登录页
 2. 首次无用户时，通过注册创建管理员
 3. 使用管理员登录
